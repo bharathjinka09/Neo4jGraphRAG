@@ -2,7 +2,7 @@
 
 ## Visualization Diagram
 
-![GraphRAG Visualization](visualisation.png)
+![GraphRAG Visualization](visualization.png)
 
 
 
