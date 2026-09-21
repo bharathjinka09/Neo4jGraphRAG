@@ -1,5 +1,12 @@
 # GraphRAG with Neo4j
 
+## Visualization Diagram
+
+![GraphRAG Visualization](visualisation.png)
+
+
+
+
 How to build a GraphRAG pipeline with LangChain, Neo4j, and Groq. The notebook follows this flow:
 
 ```text
